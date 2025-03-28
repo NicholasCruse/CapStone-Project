@@ -1,0 +1,5 @@
+# runtime Environment variables
+.env
+
+# also ignore .env.local, .env.development, .env.test, etc.
+.env.*
