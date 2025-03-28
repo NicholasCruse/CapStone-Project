@@ -40,7 +40,7 @@ The Bioexplorer NC Capstone Project is designed to help with analyze and visuali
     - choose one or more checkboxes of column names.
     - hit the drop down menu for one of the items from the list within the columns from the database.
     - check inside visualstudio code to see the data displayed at the bottom of the coding block.
-    - you can either close the pop up menu or click the close button ![#f03c15] `#f03c15`<code style="color : Red">Do not Hit The Stop Or Block Icon Where The Play Button Was.</code> That will cause the kernal to stop working and have to restart to step number 4.
+    - you can either close the pop up menu or click the close button<code style="color : red">Do not Hit The Stop Or Block Icon Where The Play Button Was.</code> That will cause the kernal to stop working and have to restart to step number 4.
 
 9. When done with the filter block run the Last code block which is the Graphing program.
     - Select at least on column to plot data other wise it will ask you to select at least one
